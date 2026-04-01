@@ -17,6 +17,8 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
+# Я хзх
+
 # Загружаем переменные окружения из .env файла
 load_dotenv()
 
